@@ -1,8 +1,8 @@
 import os
 import logging
 
-def save_text_to_file(text, filename):
-    with open(filename, 'w') as file:
+def save_text_to_file(text, file_path):
+    with open(file_path, 'w') as file:
         file.write(text)
 
 def setup_logging():

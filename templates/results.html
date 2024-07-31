@@ -3,51 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Text Extraction Results</title>
-    <style>
-
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        
-        h1 {
-            color: #333;
-        }
-        
-        .text-box {
-            border: 1px solid #ddd;
-            padding: 15px;
-            background-color: #fff;
-            border-radius: 5px;
-            margin-bottom: 20px;
-        }
-        
-        pre {
-            white-space: pre-wrap;
-            word-wrap: break-word;
-        }
-        
-        button {
-            padding: 10px 20px;
-            background-color: #007bff;
-            color: white;
-            border: none;
-            border-radius: 5px;
-        }
-        
-        button:hover {
-            background-color: #0056b3;
-        }
-        
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-        
-    </style>
-
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
     <h1>Text Extraction Results</h1>

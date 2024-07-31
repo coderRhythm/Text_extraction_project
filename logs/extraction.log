@@ -123,3 +123,47 @@
 2024-07-31 23:37:49,169 - INFO - 127.0.0.1 - - [31/Jul/2024 23:37:49] "[32mPOST / HTTP/1.1[0m" 302 -
 2024-07-31 23:37:49,179 - INFO - 127.0.0.1 - - [31/Jul/2024 23:37:49] "GET / HTTP/1.1" 200 -
 2024-07-31 23:37:55,054 - INFO - 127.0.0.1 - - [31/Jul/2024 23:37:55] "POST / HTTP/1.1" 200 -
+2024-07-31 23:46:09,456 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-31 23:46:09,456 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-31 23:46:09,459 - INFO -  * Restarting with stat
+2024-07-31 23:46:10,102 - WARNING -  * Debugger is active!
+2024-07-31 23:46:10,108 - INFO -  * Debugger PIN: 425-761-974
+2024-07-31 23:46:18,504 - INFO - 127.0.0.1 - - [31/Jul/2024 23:46:18] "GET / HTTP/1.1" 200 -
+2024-07-31 23:46:19,345 - INFO - 127.0.0.1 - - [31/Jul/2024 23:46:19] "GET / HTTP/1.1" 200 -
+2024-07-31 23:46:23,246 - INFO - 127.0.0.1 - - [31/Jul/2024 23:46:23] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-07-31 23:46:23,252 - INFO - 127.0.0.1 - - [31/Jul/2024 23:46:23] "GET / HTTP/1.1" 200 -
+2024-07-31 23:46:59,349 - INFO - 127.0.0.1 - - [31/Jul/2024 23:46:59] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-07-31 23:46:59,355 - INFO - 127.0.0.1 - - [31/Jul/2024 23:46:59] "GET / HTTP/1.1" 200 -
+2024-07-31 23:48:19,978 - INFO - 127.0.0.1 - - [31/Jul/2024 23:48:19] "GET / HTTP/1.1" 200 -
+2024-07-31 23:48:24,120 - INFO - 127.0.0.1 - - [31/Jul/2024 23:48:24] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-07-31 23:48:24,126 - INFO - 127.0.0.1 - - [31/Jul/2024 23:48:24] "GET / HTTP/1.1" 200 -
+2024-07-31 23:48:44,558 - INFO -  * Detected change in 'C:\\Users\\sethi\\Downloads\\Text_extraction_project\\app.py', reloading
+2024-07-31 23:48:44,675 - INFO -  * Restarting with stat
+2024-07-31 23:49:04,256 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-31 23:49:04,256 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-31 23:49:04,258 - INFO -  * Restarting with stat
+2024-07-31 23:49:05,067 - WARNING -  * Debugger is active!
+2024-07-31 23:49:05,072 - INFO -  * Debugger PIN: 425-761-974
+2024-07-31 23:49:05,119 - INFO - 127.0.0.1 - - [31/Jul/2024 23:49:05] "GET / HTTP/1.1" 200 -
+2024-07-31 23:49:05,424 - INFO - 127.0.0.1 - - [31/Jul/2024 23:49:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-07-31 23:49:08,324 - INFO - 127.0.0.1 - - [31/Jul/2024 23:49:08] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-07-31 23:49:08,328 - INFO - 127.0.0.1 - - [31/Jul/2024 23:49:08] "GET / HTTP/1.1" 200 -
+2024-07-31 23:49:08,353 - INFO - 127.0.0.1 - - [31/Jul/2024 23:49:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-07-31 23:49:32,240 - INFO -  * Detected change in 'C:\\Users\\sethi\\Downloads\\Text_extraction_project\\app.py', reloading
+2024-07-31 23:49:32,321 - INFO -  * Restarting with stat
+2024-07-31 23:49:35,046 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-31 23:49:35,046 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-31 23:49:35,047 - INFO -  * Restarting with stat
+2024-07-31 23:49:35,994 - WARNING -  * Debugger is active!
+2024-07-31 23:49:36,000 - INFO -  * Debugger PIN: 425-761-974
+2024-07-31 23:49:37,315 - INFO - 127.0.0.1 - - [31/Jul/2024 23:49:37] "GET / HTTP/1.1" 200 -
+2024-07-31 23:49:37,588 - INFO - 127.0.0.1 - - [31/Jul/2024 23:49:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-07-31 23:49:44,418 - INFO - 127.0.0.1 - - [31/Jul/2024 23:49:44] "POST / HTTP/1.1" 200 -
+2024-07-31 23:49:44,452 - INFO - 127.0.0.1 - - [31/Jul/2024 23:49:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-07-31 23:50:14,037 - INFO -  * Detected change in 'C:\\Users\\sethi\\Downloads\\Text_extraction_project\\app.py', reloading
+2024-07-31 23:50:35,972 - INFO -  * Restarting with stat
+2024-07-31 23:50:36,554 - WARNING -  * Debugger is active!
+2024-07-31 23:50:36,559 - INFO -  * Debugger PIN: 425-761-974
