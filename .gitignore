@@ -1,0 +1,42 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+env/
+venv/
+*.egg-info/
+*.eggs/
+
+# Flask
+instance/
+*.log
+
+# Database files
+*.sqlite3
+*.db
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor directories and files
+.vscode/
+.idea/
+*.suo
+*.swp
+*.swn
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Environment variable files
+.env
+
+# Static and uploads directory
+static/
+uploads/
