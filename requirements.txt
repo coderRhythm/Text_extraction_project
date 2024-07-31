@@ -1,0 +1,10 @@
+imutils
+pytesseract
+opencv-python-headless
+pdf2image
+PyPDF2
+Flask
+Werkzeug
+matplotlib
+wordcloud
+seaborn

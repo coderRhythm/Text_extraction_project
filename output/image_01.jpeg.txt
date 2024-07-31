@@ -1,0 +1,13 @@
+[4] Describe, with reference to one of Newton's laws of motion, the evidence that a me
+resultant force is acting on the block
+[2 marks}
+
+[0][5}.[S] The teacher adjusts the angular speed of the turntable so that the block completes
+‘one rotation avery 2.50 s
+‘She sets up a simple pendulum above the centre of the turntable so that it swings in
+phase with the movement of the block.
+
+Calculate the length of the simple pendulum.
+[2 marks]
+
+length = m

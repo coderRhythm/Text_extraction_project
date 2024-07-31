@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Text Extraction Results</title>
+    <style>
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        
+        h1 {
+            color: #333;
+        }
+        
+        .text-box {
+            border: 1px solid #ddd;
+            padding: 15px;
+            background-color: #fff;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        
+        pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+        
+        button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+        
+        button:hover {
+            background-color: #0056b3;
+        }
+        
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        
+    </style>
+
+</head>
+<body>
+    <h1>Text Extraction Results</h1>
+    
+    <!-- Display the extracted text in a styled box -->
+    <div class="text-box">
+        <h2>Extracted Text</h2>
+        <pre>{{ extracted_text }}</pre>
+    </div>
+
+    <!-- Link to download the text file -->
+    <p><a href="{{ url_for('static', filename=text_file) }}" download>Download Extracted Text File</a></p>
+    
+    <!-- Link to upload another file -->
+    <br><br>
+    <a href="/">Upload another file</a>
+</body>
+</html>

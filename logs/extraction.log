@@ -1,0 +1,125 @@
+2024-07-31 23:16:39,428 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-31 23:16:39,430 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-31 23:16:39,431 - INFO -  * Restarting with stat
+2024-07-31 23:16:40,255 - WARNING -  * Debugger is active!
+2024-07-31 23:16:40,261 - INFO -  * Debugger PIN: 674-339-898
+2024-07-31 23:17:26,436 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-31 23:17:26,436 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-31 23:17:26,437 - INFO -  * Restarting with stat
+2024-07-31 23:17:27,240 - WARNING -  * Debugger is active!
+2024-07-31 23:17:27,244 - INFO -  * Debugger PIN: 674-339-898
+2024-07-31 23:18:17,207 - INFO - 127.0.0.1 - - [31/Jul/2024 23:18:17] "POST /?filename=document_extraction.jpg HTTP/1.1" 200 -
+2024-07-31 23:18:17,241 - INFO - 127.0.0.1 - - [31/Jul/2024 23:18:17] "[33mGET /wordcloud.png HTTP/1.1[0m" 404 -
+2024-07-31 23:18:28,048 - INFO - 127.0.0.1 - - [31/Jul/2024 23:18:28] "GET /?filename=document_extraction.jpg HTTP/1.1" 200 -
+2024-07-31 23:18:30,318 - INFO - 127.0.0.1 - - [31/Jul/2024 23:18:30] "[33mGET /output/document_extraction.jpg.txt HTTP/1.1[0m" 404 -
+2024-07-31 23:19:56,437 - INFO -  * Detected change in 'C:\\Users\\sethi\\Downloads\\Text_extraction_project\\app.py', reloading
+2024-07-31 23:20:18,373 - INFO -  * Restarting with stat
+2024-07-31 23:20:19,487 - WARNING -  * Debugger is active!
+2024-07-31 23:20:19,490 - INFO -  * Debugger PIN: 674-339-898
+2024-07-31 23:21:26,066 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-31 23:21:26,066 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-31 23:21:26,067 - INFO -  * Restarting with stat
+2024-07-31 23:21:27,876 - WARNING -  * Debugger is active!
+2024-07-31 23:21:27,883 - INFO -  * Debugger PIN: 674-339-898
+2024-07-31 23:21:34,013 - INFO - 127.0.0.1 - - [31/Jul/2024 23:21:34] "[33mGET /output/document_extraction.jpg.txt HTTP/1.1[0m" 404 -
+2024-07-31 23:21:41,347 - INFO - 127.0.0.1 - - [31/Jul/2024 23:21:41] "POST /?filename=document_extraction.jpg HTTP/1.1" 200 -
+2024-07-31 23:21:41,383 - INFO - 127.0.0.1 - - [31/Jul/2024 23:21:41] "[33mGET /static/wordcloud.png HTTP/1.1[0m" 404 -
+2024-07-31 23:21:41,677 - INFO - 127.0.0.1 - - [31/Jul/2024 23:21:41] "GET /static/styles.css HTTP/1.1" 200 -
+2024-07-31 23:23:20,660 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-31 23:23:20,660 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-31 23:23:20,661 - INFO -  * Restarting with stat
+2024-07-31 23:23:21,922 - WARNING -  * Debugger is active!
+2024-07-31 23:23:21,926 - INFO -  * Debugger PIN: 674-339-898
+2024-07-31 23:23:21,977 - INFO - 127.0.0.1 - - [31/Jul/2024 23:23:21] "GET /?filename=document_extraction.jpg HTTP/1.1" 200 -
+2024-07-31 23:23:32,810 - INFO - 127.0.0.1 - - [31/Jul/2024 23:23:32] "POST / HTTP/1.1" 200 -
+2024-07-31 23:23:32,855 - INFO - 127.0.0.1 - - [31/Jul/2024 23:23:32] "[33mGET /static/wordcloud.png HTTP/1.1[0m" 404 -
+2024-07-31 23:23:33,086 - INFO - 127.0.0.1 - - [31/Jul/2024 23:23:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-07-31 23:23:52,300 - INFO - 127.0.0.1 - - [31/Jul/2024 23:23:52] "GET /?filename=document_extraction.jpg HTTP/1.1" 200 -
+2024-07-31 23:23:58,952 - INFO - 127.0.0.1 - - [31/Jul/2024 23:23:58] "POST / HTTP/1.1" 200 -
+2024-07-31 23:23:58,986 - INFO - 127.0.0.1 - - [31/Jul/2024 23:23:58] "[33mGET /static/wordcloud.png HTTP/1.1[0m" 404 -
+2024-07-31 23:24:02,644 - INFO - 127.0.0.1 - - [31/Jul/2024 23:24:02] "[33mGET /output/document_extraction.jpg.txt HTTP/1.1[0m" 404 -
+2024-07-31 23:24:07,449 - INFO - 127.0.0.1 - - [31/Jul/2024 23:24:07] "GET / HTTP/1.1" 200 -
+2024-07-31 23:26:16,890 - INFO -  * Detected change in 'C:\\Users\\sethi\\Downloads\\Text_extraction_project\\app.py', reloading
+2024-07-31 23:26:20,298 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-31 23:26:20,299 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-31 23:26:20,300 - INFO -  * Restarting with stat
+2024-07-31 23:26:21,139 - WARNING -  * Debugger is active!
+2024-07-31 23:26:21,143 - INFO -  * Debugger PIN: 674-339-898
+2024-07-31 23:26:28,547 - INFO - 127.0.0.1 - - [31/Jul/2024 23:26:28] "GET /?filename=document_extraction.jpg HTTP/1.1" 200 -
+2024-07-31 23:26:35,148 - INFO - 127.0.0.1 - - [31/Jul/2024 23:26:35] "POST / HTTP/1.1" 200 -
+2024-07-31 23:26:35,428 - INFO - 127.0.0.1 - - [31/Jul/2024 23:26:35] "GET /static/wordcloud.png HTTP/1.1" 200 -
+2024-07-31 23:27:16,243 - INFO - 127.0.0.1 - - [31/Jul/2024 23:27:16] "POST / HTTP/1.1" 200 -
+2024-07-31 23:27:16,289 - INFO - 127.0.0.1 - - [31/Jul/2024 23:27:16] "GET /static/wordcloud.png HTTP/1.1" 200 -
+2024-07-31 23:29:32,166 - INFO -  * Detected change in 'C:\\Users\\sethi\\Downloads\\Text_extraction_project\\app.py', reloading
+2024-07-31 23:29:50,091 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-31 23:29:50,091 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-31 23:29:50,093 - INFO -  * Restarting with stat
+2024-07-31 23:29:50,677 - WARNING -  * Debugger is active!
+2024-07-31 23:29:50,682 - INFO -  * Debugger PIN: 674-339-898
+2024-07-31 23:29:55,198 - INFO - 127.0.0.1 - - [31/Jul/2024 23:29:55] "GET /?filename=document_extraction.jpg HTTP/1.1" 200 -
+2024-07-31 23:29:59,869 - INFO - 127.0.0.1 - - [31/Jul/2024 23:29:59] "POST / HTTP/1.1" 200 -
+2024-07-31 23:30:00,141 - INFO - 127.0.0.1 - - [31/Jul/2024 23:30:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-07-31 23:31:20,335 - INFO - 127.0.0.1 - - [31/Jul/2024 23:31:20] "GET /?filename=document_extraction.jpg HTTP/1.1" 200 -
+2024-07-31 23:31:24,694 - INFO - 127.0.0.1 - - [31/Jul/2024 23:31:24] "POST / HTTP/1.1" 200 -
+2024-07-31 23:31:24,722 - INFO - 127.0.0.1 - - [31/Jul/2024 23:31:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-07-31 23:32:01,508 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-31 23:32:01,508 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-31 23:32:01,510 - INFO -  * Restarting with stat
+2024-07-31 23:32:02,142 - WARNING -  * Debugger is active!
+2024-07-31 23:32:02,147 - INFO -  * Debugger PIN: 674-339-898
+2024-07-31 23:32:47,169 - INFO - 127.0.0.1 - - [31/Jul/2024 23:32:47] "POST / HTTP/1.1" 200 -
+2024-07-31 23:32:47,428 - INFO - 127.0.0.1 - - [31/Jul/2024 23:32:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-07-31 23:33:33,098 - INFO - 127.0.0.1 - - [31/Jul/2024 23:33:33] "POST / HTTP/1.1" 200 -
+2024-07-31 23:33:40,263 - INFO - 127.0.0.1 - - [31/Jul/2024 23:33:40] "GET / HTTP/1.1" 200 -
+2024-07-31 23:34:08,029 - INFO -  * Detected change in 'C:\\Users\\sethi\\Downloads\\Text_extraction_project\\app.py', reloading
+2024-07-31 23:34:08,110 - INFO -  * Restarting with stat
+2024-07-31 23:34:08,733 - WARNING -  * Debugger is active!
+2024-07-31 23:34:08,737 - INFO -  * Debugger PIN: 674-339-898
+2024-07-31 23:34:20,263 - INFO -  * Detected change in 'C:\\Users\\sethi\\Downloads\\Text_extraction_project\\src\\visualizations.py', reloading
+2024-07-31 23:34:20,331 - INFO -  * Restarting with stat
+2024-07-31 23:34:20,910 - WARNING -  * Debugger is active!
+2024-07-31 23:34:20,914 - INFO -  * Debugger PIN: 674-339-898
+2024-07-31 23:34:43,870 - INFO -  * Detected change in 'C:\\Users\\sethi\\Downloads\\Text_extraction_project\\src\\text_extraction.py', reloading
+2024-07-31 23:34:43,959 - INFO -  * Restarting with stat
+2024-07-31 23:34:44,568 - WARNING -  * Debugger is active!
+2024-07-31 23:34:44,573 - INFO -  * Debugger PIN: 674-339-898
+2024-07-31 23:36:27,332 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-31 23:36:27,333 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-31 23:36:27,334 - INFO -  * Restarting with stat
+2024-07-31 23:36:27,920 - WARNING -  * Debugger is active!
+2024-07-31 23:36:27,925 - INFO -  * Debugger PIN: 674-339-898
+2024-07-31 23:36:31,364 - INFO - 127.0.0.1 - - [31/Jul/2024 23:36:31] "GET / HTTP/1.1" 200 -
+2024-07-31 23:36:32,777 - INFO - 127.0.0.1 - - [31/Jul/2024 23:36:32] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-07-31 23:36:33,181 - INFO - 127.0.0.1 - - [31/Jul/2024 23:36:33] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-31 23:36:33,182 - INFO - 127.0.0.1 - - [31/Jul/2024 23:36:33] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-31 23:36:33,220 - INFO - 127.0.0.1 - - [31/Jul/2024 23:36:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-31 23:36:33,239 - INFO - 127.0.0.1 - - [31/Jul/2024 23:36:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-31 23:36:38,579 - INFO - 127.0.0.1 - - [31/Jul/2024 23:36:38] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-07-31 23:36:38,602 - INFO - 127.0.0.1 - - [31/Jul/2024 23:36:38] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-31 23:36:38,607 - INFO - 127.0.0.1 - - [31/Jul/2024 23:36:38] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-31 23:36:38,625 - INFO - 127.0.0.1 - - [31/Jul/2024 23:36:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-31 23:37:24,330 - INFO -  * Detected change in 'C:\\Users\\sethi\\Downloads\\Text_extraction_project\\app.py', reloading
+2024-07-31 23:37:24,415 - INFO -  * Restarting with stat
+2024-07-31 23:37:25,067 - WARNING -  * Debugger is active!
+2024-07-31 23:37:25,072 - INFO -  * Debugger PIN: 674-339-898
+2024-07-31 23:37:27,526 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-31 23:37:27,526 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-31 23:37:27,528 - INFO -  * Restarting with stat
+2024-07-31 23:37:28,175 - WARNING -  * Debugger is active!
+2024-07-31 23:37:28,184 - INFO -  * Debugger PIN: 674-339-898
+2024-07-31 23:37:30,857 - INFO - 127.0.0.1 - - [31/Jul/2024 23:37:30] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-07-31 23:37:30,865 - INFO - 127.0.0.1 - - [31/Jul/2024 23:37:30] "GET / HTTP/1.1" 200 -
+2024-07-31 23:37:35,283 - INFO - 127.0.0.1 - - [31/Jul/2024 23:37:35] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-07-31 23:37:35,288 - INFO - 127.0.0.1 - - [31/Jul/2024 23:37:35] "GET / HTTP/1.1" 200 -
+2024-07-31 23:37:49,169 - INFO - 127.0.0.1 - - [31/Jul/2024 23:37:49] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-07-31 23:37:49,179 - INFO - 127.0.0.1 - - [31/Jul/2024 23:37:49] "GET / HTTP/1.1" 200 -
+2024-07-31 23:37:55,054 - INFO - 127.0.0.1 - - [31/Jul/2024 23:37:55] "POST / HTTP/1.1" 200 -
