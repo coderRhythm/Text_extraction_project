@@ -167,3 +167,14 @@
 2024-07-31 23:50:35,972 - INFO -  * Restarting with stat
 2024-07-31 23:50:36,554 - WARNING -  * Debugger is active!
 2024-07-31 23:50:36,559 - INFO -  * Debugger PIN: 425-761-974
+2024-07-31 23:50:40,781 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-31 23:50:40,781 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-31 23:50:40,782 - INFO -  * Restarting with stat
+2024-07-31 23:50:41,326 - WARNING -  * Debugger is active!
+2024-07-31 23:50:41,330 - INFO -  * Debugger PIN: 425-761-974
+2024-07-31 23:50:44,733 - INFO - 127.0.0.1 - - [31/Jul/2024 23:50:44] "GET / HTTP/1.1" 200 -
+2024-07-31 23:50:45,731 - INFO - 127.0.0.1 - - [31/Jul/2024 23:50:45] "GET / HTTP/1.1" 200 -
+2024-07-31 23:50:46,011 - INFO - 127.0.0.1 - - [31/Jul/2024 23:50:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-07-31 23:50:49,225 - INFO - 127.0.0.1 - - [31/Jul/2024 23:50:49] "POST / HTTP/1.1" 200 -
+2024-07-31 23:50:49,248 - INFO - 127.0.0.1 - - [31/Jul/2024 23:50:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -

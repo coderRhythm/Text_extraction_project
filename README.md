@@ -16,21 +16,11 @@ This project extracts text from image and PDF files. It uses Optical Character R
 
 ### Upload Page
 
-![Upload Page](docs/screenshots/upload_page.png)
+![Upload Page](docs/upload.png)
 
 ### Results Page
 
-![Results Page](docs/screenshots/results_page.png)
-
-## Architecture Diagram
-
-![Architecture Diagram](docs/architecture_diagram.png)
-
-## Example Visualization
-
-Here is an example of a word cloud generated from the extracted text:
-
-![Word Cloud Example](docs/wordcloud_example.png)
+![Results Page](docs/results_page.png)
 
 ## Installation
 
